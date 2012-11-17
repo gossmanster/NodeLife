@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeLife", "NodeLife\NodeLife.csproj", "{DC492B7F-2711-40D3-852F-64BB0385D54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{680A1DEB-DF88-49A6-B130-54024094E367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC492B7F-2711-40D3-852F-64BB0385D54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC492B7F-2711-40D3-852F-64BB0385D54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC492B7F-2711-40D3-852F-64BB0385D54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC492B7F-2711-40D3-852F-64BB0385D54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680A1DEB-DF88-49A6-B130-54024094E367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680A1DEB-DF88-49A6-B130-54024094E367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680A1DEB-DF88-49A6-B130-54024094E367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680A1DEB-DF88-49A6-B130-54024094E367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
